@@ -1,2 +1,1 @@
-https://kaojinz.github.io/seesawviewer/6x6_UHD_h264.png,http://cloud.rpnetworks.co.kr/files/v/6x6_UHD_h264.mp4
 https://kaojinz.github.io/seesawviewer/6x6_UHD_h264.png,http://cloud.rpnetworks.co.kr/files/v/6x6_UHD_h264_SHQ.mp4
