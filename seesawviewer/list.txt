@@ -1,5 +1,1 @@
-https://kaojinz.github.io/seesawviewer/UHD_8by8_64_10min_3840_2160.png,https://kaojinz.github.io/seesawviewer/UHD_8by8_64_10min_3840_2160.mp4
-https://kaojinz.github.io/seesawviewer/8by8_64_10min_1920_1080.png,https://kaojinz.github.io/seesawviewer/UHD_8by8_64_10min_1920_1080.mp4
-https://kaojinz.github.io/seesawviewer/8by8_64_h264.png,file://8by8_64_h264.mp4
-https://kaojinz.github.io/seesawviewer/big_buck_bunny_poster.jpg,http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4
-https://kaojinz.github.io/seesawviewer/bigbuckposter.jpg,rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov
+https://kaojinz.github.io/seesawviewer/6x6_UHD_h264.png,http://cloud.rpnetworks.co.kr/files/v/6x6_UHD_h264.mp4
