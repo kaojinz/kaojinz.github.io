@@ -1,1 +1,3 @@
-https://kaojinz.github.io/seesawviewer/6x6_UHD_h264.png,http://cloud.rpnetworks.co.kr/files/v/6x6_UHD_h264_SHQ.mp4
+https://kaojinz.github.io/seesawviewer/6x6_UHD_h264.png,http://cloud.rpnetworks.co.kr/files/v/6x6_UHD_h264_SHQ.mp4,6,6
+https://kaojinz.github.io/seesawviewer/UHD_3by3_h264.png,http://cloud.rpnetworks.co.kr/files/v/UHD_3by3_h264.mp4,3,3
+https://kaojinz.github.io/seesawviewer/UHD_2by2_h264.png,http://cloud.rpnetworks.co.kr/files/v/UHD_2by2_h264.mp4,2,2
