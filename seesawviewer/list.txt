@@ -1,4 +1,4 @@
-https://kaojinz.github.io/seesawviewer/UHD_8x8_Autobicycle.png,http://cloud.rpnetworks.co.kr/files/v/UHD_8x8_Autobicycle_h264.mp4,8,8
-https://kaojinz.github.io/seesawviewer/6x6_UHD_h264.png,http://cloud.rpnetworks.co.kr/files/v/6x6_UHD_h264_SHQ.mp4,6,6
-https://kaojinz.github.io/seesawviewer/UHD_3by3_h264.png,http://cloud.rpnetworks.co.kr/files/v/UHD_3by3_h264.mp4,3,3
-https://kaojinz.github.io/seesawviewer/UHD_2by2_h264.png,http://cloud.rpnetworks.co.kr/files/v/UHD_2by2_h264.mp4,2,2
+https://s3.ap-northeast-2.amazonaws.com/seesawvideo/UHD_8x8_Autobicycle.png,https://s3.ap-northeast-2.amazonaws.com/seesawvideo/UHD_8x8_Autobicycle_h264.mp4,8,8
+https://s3.ap-northeast-2.amazonaws.com/seesawvideo/6x6_UHD_h264.png,https://s3.ap-northeast-2.amazonaws.com/seesawvideo/6x6_UHD_h264_SHQ.mp4,6,6
+https://s3.ap-northeast-2.amazonaws.com/seesawvideo/UHD_3by3_h264.png,https://s3.ap-northeast-2.amazonaws.com/seesawvideo/UHD_3by3_h264.mp4,3,3
+https://s3.ap-northeast-2.amazonaws.com/seesawvideo/UHD_2by2_h264.png,https://s3.ap-northeast-2.amazonaws.com/seesawvideo/UHD_2by2_h264.mp4,2,2
